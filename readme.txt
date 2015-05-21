@@ -9,3 +9,4 @@ Creating a new branch is quick & simple.master
 feture2
 dev
 dev now with a bug
+in dev
